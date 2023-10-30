@@ -1,0 +1,18 @@
+h1{
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+  color: red;
+}
+
+.btn{
+  color: red;
+  cursor: pointer;
+}
+
+img{
+  border-radius: 30px;
+  border-color: blue;
+}

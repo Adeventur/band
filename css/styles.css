@@ -5,12 +5,27 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+h1{
+  padding-top: 30px;
+  padding-left: 10px;
+}
 body{
   background-image: url(../img/pluto\ 3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   width: 100vh;
+}
+
+img{
+  float: right;
+  flex: content;
+  justify-content: space-between;
+  height: 200px;
+  width: 200px;
+  size: 200px;
+  padding-top: 20px;
+  padding-left: 10px;
 }
 
 p{
