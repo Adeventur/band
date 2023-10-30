@@ -5,7 +5,7 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
-html{
+body{
   background-image: url(../img/pluto\ 3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -44,4 +44,10 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 10px 30px;
+}
+
+h1{
+  color: black;
+  font-style: italic;
+  font-size: larger;
 }
