@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+html{
+  background-image: url(../img/pluto\ 3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100vh;
+}
+p{
+  padding-top: 20px;
+  color: brown;
+  
+}
+.heading{
+display: flex;
+justify-content: space-between;
+text-align: center;
+text-decoration: solid white;
+}
+a{
+  display: inline-flex;
+  text-decoration: none;
+}
