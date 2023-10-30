@@ -12,18 +12,36 @@ html{
   height: 100%;
   width: 100vh;
 }
+
 p{
   padding-top: 20px;
   color: brown;
+}
   
+  .home-cta {
+    padding: 10px 
 }
-.heading{
-display: flex;
-justify-content: space-between;
-text-align: center;
-text-decoration: solid white;
+
+a {
+    text-decoration: none;
 }
-a{
-  display: inline-flex;
-  text-decoration: none;
+
+.home-ct ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+.home-ct li{
+    padding-right: 20px;
+}
+   
+.cta-content {
+    padding: 10px 30px;
+}
+
+.home-ct {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
 }
